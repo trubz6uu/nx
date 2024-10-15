@@ -11240,7 +11240,7 @@ packages:
       color-convert: 2.0.1
       dequal: 2.0.3
       lodash: 4.17.21
-      markdown-to-jsx: 7.2.0(react@18.3.1)
+      markdown-to-jsx: 7.5.0(react@18.3.1)
       memoizerific: 1.11.3
       polished: 4.2.2
       react: 18.3.1
@@ -23718,8 +23718,8 @@ packages:
     resolution: {integrity: sha512-epJKNY4rlcMIJ+czEkPgstlk+9cKmHUkhRxemCPf+38vKbehBoiH9gmsxXkgzRYQx98hpE9l/zVkg2WI+IbT3Q==}
     dev: true
 
-  /markdown-to-jsx@7.2.0(react@18.3.1):
-    resolution: {integrity: sha512-3l4/Bigjm4bEqjCR6Xr+d4DtM1X6vvtGsMGSjJYyep8RjjIvcWtrXBS8Wbfe1/P+atKNMccpsraESIaWVplzVg==}
+  /markdown-to-jsx@7.5.0(react@18.3.1):
+    resolution: {integrity: sha512-RrBNcMHiFPcz/iqIj0n3wclzHXjwS7mzjBNWecKKVhNTIxQepIix6Il/wZCn2Cg5Y1ow2Qi84+eJrryFRWBEWw==}
     engines: {node: '>= 10'}
     peerDependencies:
       react: '>= 0.14.0'
